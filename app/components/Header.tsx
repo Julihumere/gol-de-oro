@@ -9,7 +9,7 @@ export default function Header() {
   }, []);
 
   return (
-    <div className="w-full h-[80px] bg-[#1c1c1c] text-white flex items-center justify-between lg:h-[150px] md:h-[100px]">
+    <div className="w-full h-[80px] bg-[#1c1c1c] text-white flex items-center justify-between lg:h-[120px] md:h-[100px]">
       <Image
         src={require("../../public/images/logo.png")}
         alt="Logo de gol de oro"

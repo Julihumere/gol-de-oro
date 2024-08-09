@@ -1,32 +1,83 @@
 [
   {
-    "name": "Equipo 1"
+    "id": 1,
+    "name": "Equipo 1",
+    "formation": "1-2-1",
+    "players": [
+      {
+        "name": "Jugador 1",
+        "position": "POR"
+      },
+      {
+        "name": "Jugador 2",
+        "position": "DEF"
+      },
+      {
+        "name": "Jugador 3",
+        "position": "MED"
+      },
+      {
+        "name": "Jugador 4",
+        "position": "MED"
+      },
+      {
+        "name": "Jugador 5",
+        "position": "DEL"
+      }
+    ]
   },
   {
-    "name": "Equipo 2"
+    "id": 2,
+    "name": "Equipo 2",
+    "formation": "2-1-1",
+    "players": [
+      {
+        "name": "Jugador 1",
+        "position": "POR"
+      },
+      {
+        "name": "Jugador 2",
+        "position": "DEF"
+      },
+      {
+        "name": "Jugador 3",
+        "position": "DEF"
+      },
+      {
+        "name": "Jugador 4",
+        "position": "MED"
+      },
+      {
+        "name": "Jugador 5",
+        "position": "DEL"
+      }
+    ]
   },
   {
-    "name": "Equipo 3"
-  },
-  {
-    "name": "Equipo 4"
-  },
-  {
-    "name": "Equipo 5"
-  },
-  {
-    "name": "Equipo 6"
-  },
-  {
-    "name": "Equipo 7"
-  },
-  {
-    "name": "Equipo 8"
-  },
-  {
-    "name": "Equipo 9"
-  },
-  {
-    "name": "Equipo 10"
+    "id": 3,
+    "name": "Equipo 3",
+    "formation": "1-1-2",
+    "players": [
+      {
+        "name": "Jugador 1",
+        "position": "POR"
+      },
+      {
+        "name": "Jugador 2",
+        "position": "DEF"
+      },
+      {
+        "name": "Jugador 3",
+        "position": "MED"
+      },
+      {
+        "name": "Jugador 4",
+        "position": "DEL"
+      },
+      {
+        "name": "Jugador 5",
+        "position": "DEL"
+      }
+    ]
   }
 ]
