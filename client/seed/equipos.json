@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Equipo 1",
+    "formation": "1-2-1",
+    "players": [
+      {
+        "name": "Tibor Szalai",
+        "position": "POR"
+      },
+      {
+        "name": "Cristian Romero",
+        "position": "DEF"
+      },
+      {
+        "name": "Nahuel Molina",
+        "position": "MED"
+      },
+      {
+        "name": "Giovani Lo Celso",
+        "position": "MED"
+      },
+      {
+        "name": "Lionel Messi",
+        "position": "DEL"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Equipo 2",
+    "formation": "2-1-1",
+    "players": [
+      {
+        "name": "Segio Romero",
+        "position": "POR"
+      },
+      {
+        "name": "Serio Ramos",
+        "position": "DEF"
+      },
+      {
+        "name": "Lisandro Martínez",
+        "position": "DEF"
+      },
+      {
+        "name": "Rodrigo De Paul",
+        "position": "MED"
+      },
+      {
+        "name": "Julian Alvarez",
+        "position": "DEL"
+      }
+    ]
+  }
+]

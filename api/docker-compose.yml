@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  goldb:
+    image: mysql
+    env_file:
+      - ./.env
+    environment:
+      - MYSQL_ROOT_PASSWORD=$GOLDB_ROOT_PASSWORD
+      - MYSQL_DATABASE=$GOLDB_DATABASE
+    ports:
+      - "$GOLDB_LOCAL_PORT:$GOLDB_DOCKER_PORT"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+volumes:
+  mysql_data:
